@@ -1,0 +1,19 @@
+{
+  "name": "yishak/mysql-backupper",
+  "description": "A php script that backups mysql database daily and store to a s3 storage.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yishak",
+      "email": "yishakwork@gmail.com"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "^3.374",
+    "vlucas/phpdotenv": "^5.6"
+  },
+  "require-dev": {
+    "laravel/pint": "^1.29"
+  }
+}
