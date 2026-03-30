@@ -14,6 +14,8 @@ Please follow the instructions below to set up the environment variables and run
 
 3. Open the .env file and fill in the required values for your database and AWS credentials:
 
+`DATABASE_HOST: The hostname of your MySQL database`
+
 `DATABASE_PORT: The port number of your MySQL database (e.g., 3306)`
 
 `DATABASE_USER: The username for your MySQL database`
